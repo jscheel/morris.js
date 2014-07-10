@@ -6,7 +6,7 @@
     "./morris.css"
   ],
   "dependencies": {
-    "jquery": "JQUERY",
+    "jquery": ">=1.7.0",
     "raphael": "RAPHAEL",
     "mocha": "~1.17.1"
   },
